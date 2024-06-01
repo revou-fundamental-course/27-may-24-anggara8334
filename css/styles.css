@@ -1,1 +1,20 @@
 /* Ini Css */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav>section{
+    display: flex;
+}
+
+.logo-icon{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.nav-item{
+    border: 1px solid black;
+}
